@@ -1,0 +1,16 @@
+https://stackabuse.com/using-machine-learning-to-predict-the-weather-part-1/
+
+Linear Regression
+
+https://www.geeksforgeeks.org/ml-linear-regression/
+
+Linear Regression Python 
+
+https://www.geeksforgeeks.org/linear-regression-python-implementation/
+
+Multiple Linear Regression
+
+https://www.geeksforgeeks.org/ml-multiple-linear-regression-using-python/
+
+
+
